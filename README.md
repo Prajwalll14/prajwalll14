@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRAJWAL S BABANGOL</h1>
+<h1 align="center">Hi 👋, I'm PRAJWAL  BABANGOL</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 - 📫 How to reach me **prajwalbabangol@gmail.com**
